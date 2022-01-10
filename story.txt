@@ -1,1 +1,2 @@
 "Programming isn't about what you know; it's about what you can figure out.”
+"It's more than just pressing keys on a keyboard and hopeing for the best, it's planning, executing, failing, debugging and trying again until you succeed."
