@@ -1,1 +1,1 @@
-this is the third line of code
+Never stop learning because programming always evolving and improving.
